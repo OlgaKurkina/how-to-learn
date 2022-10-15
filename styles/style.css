@@ -215,7 +215,7 @@ margin-top: 60px;
   }
 
 .kaufman {
-  background-color: #1f1f1f;;
+  background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
   z-index: 0;
@@ -262,8 +262,8 @@ margin-top: 60px;
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: #1f1f1f;;
-padding-top: 60px;
+  background-color: #1f1f1f;
+  padding-top: 60px;
 }
 
 .footer__columns {
